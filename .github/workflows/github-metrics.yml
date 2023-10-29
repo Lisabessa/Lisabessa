@@ -28,7 +28,7 @@ jobs:
           # Options
           user: Lisabessa
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Novosibirsk
           plugin_achievements: yes
           plugin_achievements_display: compact
