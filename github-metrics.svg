@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.04911450211193" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="375.04911450211193" y="0" width="20.696986805707937" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="395.74610130781986" y="0" width="19.560917366285093" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="415.307018674105" y="0" width="12.709417641030607" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="428.0164363151356" y="0" width="10.750751548062764" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="438.76718786319833" y="0" width="7.258008551860787" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="446.02519641505916" y="0" width="7.121747272132371" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.14694368719154" y="0" width="6.853056312808503" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.8434341134983" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="374.8434341134983" y="0" width="20.68563638752343" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="395.5290705010217" y="0" width="19.550189979044422" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="415.0792604800661" y="0" width="12.702447679341908" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="427.781708159408" y="0" width="10.74485573689886" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="438.5265638963069" y="0" width="7.2540281931243324" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="445.78059208943125" y="0" width="7.117841640336694" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.89843372976793" y="0" width="7.101566270232021" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -90,7 +90,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>81.53%</div>
+                                <div>81.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -169,7 +169,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.49%</div>
+                                <div>1.54%</div>
                             </small>
                         </div>
                     </section>
@@ -254,7 +254,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.09m out of 123m users</span>
+                                    <span class="gh">ranked 3.09m out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -514,7 +514,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2023, 00:03:50 (timezone Asia/Novosibirsk) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Dec 2023, 01:07:39 (timezone Asia/Novosibirsk) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
