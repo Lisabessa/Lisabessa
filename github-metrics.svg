@@ -78,7 +78,7 @@
                     <rect mask="url(#languages-bar)" x="426.8332589083652" y="0" width="10.509789959759946" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="437.3430488681252" y="0" width="7.990166801272187" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="445.33321566939736" y="0" width="7.616212944078106" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.9494286134755" y="0" width="7.0505713865245125" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="452.9494286134755" y="0" width="7.0505713865245125" height="8" fill="#7355dd"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -164,7 +164,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
@@ -195,7 +195,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2026, 23:08:03 (timezone Asia/Novosibirsk) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Aug 2026, 01:45:17 (timezone Asia/Novosibirsk) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
